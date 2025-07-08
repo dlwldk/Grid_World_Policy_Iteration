@@ -11,7 +11,7 @@
 - Policy Iteration은 Dynamic Programming의 한 방법으로, 정책 평가(Policy Evaluation)와 정책 개선(Policy Improvement)을 반복하여 최적 정책을 찾음
 
 ## 프로세스
-# traning & test
+### traning & test
 1. traning
 python main_train.py
 
