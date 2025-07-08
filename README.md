@@ -12,12 +12,11 @@
 
 ## 프로세스
 ### traning & test
-1. traning
-python main_train.py
+💻 traning <br/>
+   python main_test.py
 
-2. test
-python main_test.py
-
+💻 test <br/>
+	 python main_test.py
 
 ## 환경
 - Python 3.7+
